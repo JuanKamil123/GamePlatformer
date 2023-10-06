@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 46d95039b5791c44aa2df0fc41760868
+guid: 4ec13c57c2c9b734c95c2dd3feea1024
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,211 +110,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: coinSheet_0
+      name: GameOver_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 1
-        width: 59
-        height: 60
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bb0db76bfd2da634cbf56b9d70cc2315
-      internalID: 1583589995
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: coinSheet_1
-      rect:
-        serializedVersion: 2
-        x: 60
         y: 0
-        width: 60
-        height: 61
+        width: 629
+        height: 421
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e7c16c47cd5a5e49861423c62316bd7
-      internalID: -1532810201
+      spriteID: 237288dcc8ca67c43b0de1b6a286d2bd
+      internalID: -1812784781
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coinSheet_2
+      name: GameOver_1
       rect:
         serializedVersion: 2
-        x: 127
-        y: 0
-        width: 58
-        height: 61
+        x: 643
+        y: 216
+        width: 273
+        height: 191
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e8ef508e8f67ca4fac84bd53af44173
-      internalID: -758409551
+      spriteID: a1c69f5a020474c46abbc4e557bad615
+      internalID: 382251273
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coinSheet_3
+      name: GameOver_2
       rect:
         serializedVersion: 2
-        x: 199
-        y: 1
-        width: 49
-        height: 60
+        x: 745
+        y: 115
+        width: 109
+        height: 83
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f241cf6b99151874f8442f1a3325c8a7
-      internalID: 1608334634
+      spriteID: 26372201d04922c44a1bece81b956394
+      internalID: 335894226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coinSheet_4
+      name: GameOver_3
       rect:
         serializedVersion: 2
-        x: 268
-        y: 1
-        width: 41
-        height: 60
+        x: 664
+        y: 14
+        width: 189
+        height: 82
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3964a6d1bae4ed245b1e0209cb780baa
-      internalID: 2050736505
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: coinSheet_5
-      rect:
-        serializedVersion: 2
-        x: 331
-        y: 2
-        width: 23
-        height: 59
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eee8bd0fd08bb6840a2a8be9455ca08d
-      internalID: 1601572775
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: coinSheet_6
-      rect:
-        serializedVersion: 2
-        x: 386
-        y: 1
-        width: 40
-        height: 60
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 503ffe4217e1cce4ba3a89f9f4e944b9
-      internalID: 547322448
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: coinSheet_7
-      rect:
-        serializedVersion: 2
-        x: 447
-        y: 1
-        width: 49
-        height: 60
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 22a31607bea086c4e8d8e407fbdb15c1
-      internalID: 1257536712
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: coinSheet_8
-      rect:
-        serializedVersion: 2
-        x: 505
-        y: 0
-        width: 58
-        height: 61
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2b1a83d3887b0f441a640deed89551cf
-      internalID: 962605554
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: coinSheet_9
-      rect:
-        serializedVersion: 2
-        x: 571
-        y: 0
-        width: 68
-        height: 61
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2cce15ce135f11d4982b4b7ed86e995b
-      internalID: -963286749
+      spriteID: 966d597c1f2a8e04e9a56be758983ef7
+      internalID: 1898129479
       vertices: []
       indices: 
       edges: []
@@ -330,16 +204,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      coinSheet_0: 1583589995
-      coinSheet_1: -1532810201
-      coinSheet_2: -758409551
-      coinSheet_3: 1608334634
-      coinSheet_4: 2050736505
-      coinSheet_5: 1601572775
-      coinSheet_6: 547322448
-      coinSheet_7: 1257536712
-      coinSheet_8: 962605554
-      coinSheet_9: -963286749
+      GameOver_0: -1812784781
+      GameOver_1: 382251273
+      GameOver_2: 335894226
+      GameOver_3: 1898129479
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
